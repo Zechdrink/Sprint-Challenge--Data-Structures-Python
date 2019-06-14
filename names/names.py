@@ -48,6 +48,7 @@ duplicates = []
 #             duplicates.append(name_1)
 
 tree = BinarySearchTree()
+
 for i in names_1:
   tree.insert(i)
 
